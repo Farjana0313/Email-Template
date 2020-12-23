@@ -1,0 +1,39 @@
+.logo{
+width: 105px;
+height: 34px;
+left: 41px;
+top: 27px;
+}
+.banner {
+    background-image: url('../images/Rectangle\ 1018.png');
+    background-repeat: no-repeat;
+    width: 552px;
+    height: 200px;
+}
+.service img{
+    width: auto;
+}
+.about_text {
+    background: #34B53A;
+    color: #fff;
+    height: 533px;
+}
+ul li {
+    list-style-type: none;
+}
+.button {
+    margin-left: 200px;
+}
+.faq {
+    background: #34B53A;
+}
+footer{
+    background: #000;
+}
+.divider{
+    margin: 50px;
+}
+.footer-link ul li a{
+    color: #fff;
+    text-decoration: none;
+}
